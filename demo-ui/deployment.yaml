@@ -14,7 +14,7 @@ labels:
 app: demo-ui
 spec:
 containers:
-- image: gabrielle20/demo-ui:2fa8329b6b9e28daa8828388a007382f7961da76
+- image: gabrielle20/demo-ui:28923d1b6fd32ab835f86050b59aa577b0f6e2b3
 name: demo-ui
 ports:
 - containerPort: 80
